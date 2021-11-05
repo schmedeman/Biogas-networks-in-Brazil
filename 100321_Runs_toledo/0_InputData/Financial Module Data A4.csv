@@ -1,0 +1,24 @@
+Parameter,Values,Status,
+pipe cost per km (Reals),73516.54,no change,0
+truck cost per km per m3 (Reals),0.18,updated,1
+"Biodigester Investment Ref Capacity, m3",8.5,no change,2
+"Biodigester Investment Ref Cost for Ref Biodigester, $BRL",90442,no change,3
+biodigester om cost percent of investment,13,no change,4
+elec gen cost per mw Gas(Reals),7469416.09,no change,5
+elec gen cost per mw Aeroderivative (Reals),6450750,no change,6
+elec gen cost per mw OCGT(Reals),4690546.2,no change,7
+elec gen cost per mw CCGT(Reals),5136224.4,no change,8
+annual electric om cost percent,3,no change,9
+cng cost per m3 (Reals),900,Updated,10
+cng cost per op m3 (Reals),0.78,Updated,11
+rev per mwh (Reals),350,no change,12
+rev per cng m3 (Reals),3.09,no change,13
+Capital recovery factor,6.1,no change,14
+"Manure Density, kg/m3",1000,no change,15
+"biogas methane content, %",60,no change,16
+methane vol to kg conversion,0.668,updated,17
+co2 equivalent conversion factor,25,updated,18
+fuel economy ratio between truck and car ,2.86,new,19
+"fuel co2 emission, kg co2/km for biomethane",0.02145,updated,20
+"truck volume, m3",18,no change,21
+Econ_scale_biodigester,0.8,no change,22
