@@ -1,0 +1,26 @@
+﻿Parameter,Values,Index
+pipe cost per km (USD),14041,0
+transportation cost per km per m3 (USD),0.03438,1
+"biodigester investment reference capacity, m3",8.5,2
+biodigester investment reference cost (USD),17273,3
+biodigester O&M cost percent of investment,13,4
+electric generator cost per mw gas (USD),1426550,5
+electric generator cost per mw aeroderivative (USD),1232000,6
+electric generator cost per mw OCGT (USD),895826,7
+electric generator cost per mw CCGT (USD),980944,8
+electric generator O&M cost percent,3,9
+biomethane cost per m3 (USD),172,10
+biomethane cost per op m3 (USD),0.149,11
+electricity revenue per MWh (USD),66.84,12
+biomethane revenue per m3 (USD),0.5901,13
+capital recovery factor,6.1,14
+"manure density, kg/m3",1000,15
+"biogas methane content, %",60,16
+methane vol to kg conversion,0.668,17
+co2 equivalent conversion factor,25,18
+fuel economy ratio between truck and car ,1,19
+"biomethane truck co2 emission, kg co2/km",0.458,20
+"truck volume, m3",40,21
+biodigester economies of scale factor,0.85,22
+"manure collection co2 emissions, kg co2/kg manure",0.0084,23
+"manure storage co2 emissions, kg co2/kg manure",0.05,24
